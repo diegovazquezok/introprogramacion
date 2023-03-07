@@ -6,6 +6,8 @@ El siguiente codigo responde a la consigna:
 Primera parte:
 •	Crear una función con tres parámetros que sean números que se suman entre sí.
 •	Llamar a la función en el main y darle valores.
+
+
 Segunda parte:
 •	Crear una clase coche.
 •	Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
